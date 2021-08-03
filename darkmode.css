@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient( 0deg, rgb(233, 224, 247),rgb(90, 68, 104));
+}
+
+h1{
+    color: #fff;
+}
+
+.playlist-container h4{
+    color: #fff;
+}
+
+.music-container{
+    background-color: rgb(233, 224, 247);
+    box-shadow: 0 20px 20px 0 rgba(148, 138, 150, 0.6);
+}
+
+.progress-container{
+    background-color: #fff;
+}
+
+.progress, .volume{
+    background-color: rgb(153, 124, 190);
+}
+
+.action-btn{
+    background-color: transparent;
+    color:rgba(148, 138, 150, 0.6)
+}
+.action-btn-big{
+    color:rgba(121, 114, 122, 0.6)
+}
+ul{
+    color: rgb(79 56 108);
+}
